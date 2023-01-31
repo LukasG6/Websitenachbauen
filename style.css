@@ -1,0 +1,170 @@
+.wrapper{
+    display: flex;
+    justify-content: center;
+   
+}
+
+body{
+    background-color: darkblue;
+    background-image: url('https://media.tenor.com/ajDfoSB-_TwAAAAd/spinning-background.gif');
+    background-size: cover;
+    
+}
+
+
+
+
+
+.from-area{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.btnoben{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.Sprachtn{
+    height: 3rem;
+    width: 7rem;
+    border: solid gray;
+    border-radius: 2rem;
+    background: transparent;
+    font-size: 1rem;
+    font-weight: bold;
+    
+}
+
+.updates{
+    height: 3rem;
+    width: 15rem;
+    border: solid gray;
+    border-radius: 1rem;
+    background: rgba(40, 157, 196, 0.521);
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.topText{
+    display: flex;
+    justify-content: space-between 0rem;
+    justify-content: center;
+}
+
+.img-area1{
+    display: flex;
+    justify-content: center;
+}
+
+.Start-img{
+margin-top: 3rem;
+height: 20rem;
+width: 30rem;
+}
+
+.description{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+
+.img-area2{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.profile-img{
+    width: 200px;
+    height: 200px;
+    border-radius: 10rem;
+    
+    
+}
+
+.Allebuttons{
+    justify-content: c;
+}
+
+
+
+.btn1{
+    background-color: rgb(91, 148, 5);
+    border: solid rgba(91, 148, 5);
+    width: 15rem;
+    height: 3,1rem;
+    border-bottom-right-radius: 1rem;
+    border-top-right-radius: 1rem;
+    font-size: 2rem;
+    color: white;
+}
+
+.Text2{
+    width: 35rem;
+    height: 3rem;
+    font-size: 2rem;
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+    background-color:transparent;
+    border: solid gray;
+    color: black;
+}
+
+.Buttons1{
+    display: flex;
+    flex-direction: row;
+    margin-top: 3rem ;
+    justify-content: center;
+}
+
+.btn2{
+    background-color: red;
+    border: solid red;
+    width: 25rem;
+    height: 3rem;
+    border-radius: 1rem;
+    font-size: 2rem;
+    color: aliceblue;
+    margin-right: 10px;
+}
+
+.btn3{
+    background-color: gray;
+    border: solid gray;
+    width: 25rem;
+    height: 3rem;
+    border-radius: 1rem;
+    font-size: 2rem;
+    color: aliceblue;
+    margin-left: 10px;
+}
+
+.Buttons2{
+    margin-top: 1rem;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.btn4{
+    border:none;
+    background:none;
+    color: black;
+    font-size: 20px;
+
+}
+
+.Buttons3{
+    margin-top: 1rem;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
